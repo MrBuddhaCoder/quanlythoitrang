@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//src/control/AddModifyControl/aoController.java=UTF-8
+encoding//src/control/AddModifyControl/quanController.java=UTF-8
+encoding//src/control/AddModifyControl/tuiXachController.java=UTF-8
+encoding//src/control/HomeController.java=UTF-8
+encoding//src/control/selectControl/timKiemSelectControl.java=UTF-8
+encoding//src/service/datHangService.java=UTF-8
+encoding//src/service/search/aoSearchService.java=UTF-8
+encoding//src/service/search/list/aoSearch.java=UTF-8
+encoding//src/service/search/quanSearchService.java=UTF-8
+encoding//src/service/search/theoThangSearch.java=UTF-8
+encoding//src/service/search/tuiXachSearchService.java=UTF-8
+encoding//src/service/sell/sellAoService.java=UTF-8
+encoding//src/service/sell/sellQuanService.java=UTF-8
+encoding//src/service/sell/sellTuiXachService.java=UTF-8
+encoding//src/service/thongke/thongKeService.java=UTF-8
+encoding//src/utils/sell/sellQuanUtils.java=UTF-8
